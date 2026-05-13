@@ -129,6 +129,9 @@ The final output must contain:
 Format the response as a professional technical report suitable for academic submission, AI research projects, software engineering demonstrations, and prompt engineering experiments. Ensure the output is highly detailed, technically advanced, logically structured, and implementation-oriented.
 
 ### OUTPUT:
+
+[OmniEval_Multi_AI_Architect_Report.pdf](https://github.com/user-attachments/files/27699426/OmniEval_Multi_AI_Architect_Report.pdf)
+
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/cbc34b53-3ceb-46d7-b5f9-d363dc689501" />
 
 
